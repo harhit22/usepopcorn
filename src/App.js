@@ -104,7 +104,8 @@ function Main() {
     <main className="main">
       <Listbox />
       <WatchedBox />
-    </main>
+    </main> 
+    
   );
 }
 //----------------------------------left box-----------------------------------//
